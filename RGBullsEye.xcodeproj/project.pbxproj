@@ -13,6 +13,7 @@
 		C053870A24C2C1BC00C5ECC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C053870924C2C1BC00C5ECC3 /* Assets.xcassets */; };
 		C053870D24C2C1BC00C5ECC3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C053870C24C2C1BC00C5ECC3 /* Preview Assets.xcassets */; };
 		C053871024C2C1BC00C5ECC3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C053870E24C2C1BC00C5ECC3 /* LaunchScreen.storyboard */; };
+		C078089B24C55598001DDC83 /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C078089A24C55598001DDC83 /* TimeCounter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C053870C24C2C1BC00C5ECC3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C053870F24C2C1BC00C5ECC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C053871124C2C1BC00C5ECC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C078089A24C55598001DDC83 /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C053870324C2C1BA00C5ECC3 /* AppDelegate.swift */,
 				C053870524C2C1BA00C5ECC3 /* SceneDelegate.swift */,
 				C053870724C2C1BA00C5ECC3 /* ContentView.swift */,
+				C078089A24C55598001DDC83 /* TimeCounter.swift */,
 				C053870924C2C1BC00C5ECC3 /* Assets.xcassets */,
 				C053870E24C2C1BC00C5ECC3 /* LaunchScreen.storyboard */,
 				C053871124C2C1BC00C5ECC3 /* Info.plist */,
@@ -149,6 +152,7 @@
 				C053870424C2C1BA00C5ECC3 /* AppDelegate.swift in Sources */,
 				C053870624C2C1BA00C5ECC3 /* SceneDelegate.swift in Sources */,
 				C053870824C2C1BA00C5ECC3 /* ContentView.swift in Sources */,
+				C078089B24C55598001DDC83 /* TimeCounter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
